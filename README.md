@@ -1,0 +1,2 @@
+Image Classification Using CNN on MNIST Dataset
+The MNIST dataset is a well-known benchmark in the field of machine learning and computer vision. It consists of 70,000 grayscale images of handwritten digits (0-9), each of size 28x28 pixels. Convolutional Neural Networks (CNNs) are particularly effective for image classification tasks due to their ability to automatically learn spatial hierarchies of features.
